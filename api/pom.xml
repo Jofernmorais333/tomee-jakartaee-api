@@ -64,7 +64,7 @@
         <jakarta.data-api.version>1.0.1</jakarta.data-api.version>
 
         <!-- We use servlet, jsp, jaspic, websocket, el straight from Tomcat APIs -->
-        <tomcat.version>11.0.11</tomcat.version>
+        <tomcat.version>11.0.15</tomcat.version>
 
         <!--  Full platform -->
         <geronimo-activation_2.0_spec.version>1.0.0</geronimo-activation_2.0_spec.version>
